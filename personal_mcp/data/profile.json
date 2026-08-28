@@ -1,0 +1,31 @@
+{
+  "name": "Mayank Goswami",
+  "title": "AI/ML Engineer and Researcher",
+  "location": "India",
+  "summary": "AI/ML engineer and researcher with experience in Generative AI, Agentic AI, RAG, machine learning, deep learning, computer vision, data analytics and software development.",
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science and Engineering",
+      "institution": "MDU Rohtak",
+      "percentage": 76.5
+    }
+  ],
+  "professional_focus": [
+    "Generative AI",
+    "Agentic AI",
+    "Machine Learning",
+    "Deep Learning",
+    "RAG",
+    "Computer Vision",
+    "Data Engineering",
+    "Software Development"
+  ],
+  "current_interests": [
+    "MCP",
+    "FastMCP",
+    "LLM Applications",
+    "Agentic AI",
+    "RAG Systems",
+    "Multi-Agent Systems"
+  ]
+}

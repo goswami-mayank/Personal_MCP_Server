@@ -1,0 +1,47 @@
+[
+  {
+    "organization": "EY",
+    "role": "Data Analyst",
+    "description": "Worked on data analytics and proof-of-concept solutions for government client projects.",
+    "technologies": [
+      "Python",
+      "SQL",
+      "Data Analytics",
+      "Machine Learning"
+    ],
+    "domains": [
+      "Data Analytics",
+      "Government Technology"
+    ]
+  },
+  {
+    "organization": "IIT Delhi",
+    "role": "Junior Research Fellow",
+    "description": "Worked on artificial intelligence and machine learning research projects involving data science, machine learning and deep learning.",
+    "technologies": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Artificial Intelligence"
+    ],
+    "domains": [
+      "Research",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "organization": "TimesPro",
+    "role": "Teaching Assistant",
+    "description": "Teaching assistant for an Applied Data Science and Artificial Intelligence course.",
+    "technologies": [
+      "Python",
+      "Data Science",
+      "Machine Learning",
+      "Artificial Intelligence"
+    ],
+    "domains": [
+      "Education",
+      "Data Science"
+    ]
+  }
+]

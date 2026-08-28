@@ -1,0 +1,75 @@
+{
+  "programming_languages": [
+    "Python",
+    "SQL",
+    "JavaScript"
+  ],
+  "machine_learning": [
+    "Scikit-learn",
+    "TensorFlow",
+    "PyTorch",
+    "XGBoost",
+    "Regression",
+    "Classification",
+    "Clustering",
+    "Feature Selection",
+    "Hyperparameter Optimization"
+  ],
+  "deep_learning": [
+    "Neural Networks",
+    "CNN",
+    "RNN",
+    "LSTM",
+    "GRU",
+    "Transformers"
+  ],
+  "generative_ai": [
+    "Large Language Models",
+    "RAG",
+    "Prompt Engineering",
+    "Agentic AI",
+    "MCP",
+    "LLM Applications",
+    "Tool Calling"
+  ],
+  "frameworks": [
+    "FastAPI",
+    "FastMCP",
+    "LangChain",
+    "LangGraph",
+    "DSPy",
+    "Streamlit",
+    "React",
+    "PySide6",
+    "KivyMD"
+  ],
+  "databases": [
+    "PostgreSQL",
+    "SQLite",
+    "MongoDB",
+    "Snowflake",
+    "Supabase",
+    "ChromaDB"
+  ],
+  "data_engineering": [
+    "SQL",
+    "Data Pipelines",
+    "ETL",
+    "Snowflake",
+    "DBT"
+  ],
+  "computer_vision": [
+    "OpenCV",
+    "MediaPipe",
+    "Object Detection",
+    "Image Segmentation",
+    "YOLO"
+  ],
+  "developer_tools": [
+    "Git",
+    "GitHub",
+    "Docker",
+    "Linux",
+    "REST APIs"
+  ]
+}

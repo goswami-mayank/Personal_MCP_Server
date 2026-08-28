@@ -1,0 +1,93 @@
+[
+  {
+    "name": "PadhAI",
+    "category": "Generative AI",
+    "description": "A Generative AI learning platform and AI tutor that provides educational responses, image-based solutions, YouTube video solutions and quizzes.",
+    "technologies": [
+      "Python",
+      "Mistral",
+      "Sentence Transformers",
+      "LangChain",
+      "RAG",
+      "Streamlit",
+      "AWS",
+      "yt-dlp"
+    ],
+    "skills": [
+      "Generative AI",
+      "RAG",
+      "LLM Applications",
+      "NLP",
+      "Prompt Engineering"
+    ]
+  },
+  {
+    "name": "AI Trainer",
+    "category": "Computer Vision",
+    "description": "An AI-powered fitness application using MediaPipe pose estimation to detect and analyze workout exercises.",
+    "technologies": [
+      "Python",
+      "MediaPipe",
+      "Computer Vision",
+      "KivyMD"
+    ],
+    "skills": [
+      "Computer Vision",
+      "Pose Estimation",
+      "Mobile Application Development"
+    ]
+  },
+  {
+    "name": "QtPlot",
+    "category": "Scientific Visualization",
+    "description": "A scientific visualization desktop application inspired by QtiPlot, supporting data visualization and interactive plotting.",
+    "technologies": [
+      "Python",
+      "PySide6",
+      "Qt",
+      "Plotly",
+      "Matplotlib"
+    ],
+    "skills": [
+      "Python",
+      "Desktop Application Development",
+      "Data Visualization"
+    ]
+  },
+  {
+    "name": "Streamlit ML Studio",
+    "category": "Machine Learning",
+    "description": "An interactive machine learning platform supporting data loading, EDA, preprocessing, model training, hyperparameter tuning and feature selection.",
+    "technologies": [
+      "Python",
+      "Streamlit",
+      "Scikit-learn",
+      "Pandas",
+      "NumPy"
+    ],
+    "skills": [
+      "Machine Learning",
+      "EDA",
+      "Model Selection",
+      "Feature Selection"
+    ]
+  },
+  {
+    "name": "Personal MCP Server",
+    "category": "Agentic AI",
+    "description": "A Model Context Protocol server that exposes professional profile, skills, projects and employment experience through MCP tools and resources.",
+    "technologies": [
+      "Python",
+      "FastMCP",
+      "MCP",
+      "JSON",
+      "HTTP"
+    ],
+    "skills": [
+      "MCP",
+      "FastMCP",
+      "Agentic AI",
+      "Tool Calling"
+    ]
+  }
+]

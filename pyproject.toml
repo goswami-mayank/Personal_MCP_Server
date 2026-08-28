@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+name = "personal-mcp"
+version = "1.0.0"
+description = "Personal Professional Knowledge MCP Server"
+requires-python = ">=3.11"
+
+dependencies = [
+    "fastmcp>=3.4,<4",
+    "pydantic>=2,<3",
+    "python-dotenv>=1,<2"
+]
+
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["personal_mcp*"]
+
+
+[tool.setuptools.package-data]
+personal_mcp = [
+    "data/*.json"
+]
